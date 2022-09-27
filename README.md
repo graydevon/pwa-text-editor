@@ -25,9 +25,9 @@ Users can access this Progressive Web Applications Text Editor within the browse
 
 
 ## **Got Questions?**
-If you have any questions concerining this application. Please feel free to reach out and ask me here 
+If you have any questions concerining this application. Please feel free to reach out and ask me here!
 
-[My GitHub Profile](https://github.com/graydevon)
+[My GitHub Profile!](https://github.com/graydevon)
 
 ## **License**
 ```
