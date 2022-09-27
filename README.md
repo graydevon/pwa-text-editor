@@ -3,7 +3,7 @@ PWA Text Editor:
 ![License: MIT](https://img.shields.io/badge/License-MIT-37B1E4.svg)
 
 ## **Description**
-A simple text editor that meets PWA criteria. This Progressive Web Application can be installed by the user and is avaible both online and offline. Meant for anyone!
+A simple text editor that meets PWA criteria. This Progressive Web Application can be installed by the user and is avaible both online and offline. User can install if wanted. Meant for anyone!
 
 ### [Click to View Appplication](https://pwa-text-editor6.herokuapp.com/)
 
